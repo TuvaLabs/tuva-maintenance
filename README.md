@@ -1,2 +1,2 @@
 # tuva-maintenance
-Mainteance window page
+Maintenance window page
